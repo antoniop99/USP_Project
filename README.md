@@ -2,7 +2,7 @@
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Minecraft is not a video game");
+        System.out.println("Minecraft is a video game");
     }
 }
 
