@@ -2,6 +2,6 @@
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Nigga");
+        System.out.println("No racism here");
     }
 }
